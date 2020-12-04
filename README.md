@@ -1,6 +1,6 @@
-# react-interview
+# React Interview
 
-This is one implementation of the react coding interview exercise you can find in the [Beginner React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=gnkrDse9QKc]) video.
+In this project you will find an implementation of the react coding interview exercise you can find in the [Beginner React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=gnkrDse9QKc]) video.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gnkrDse9QKc/0.jpg)](https://www.youtube.com/watch?v=gnkrDse9QKc)
 
@@ -15,6 +15,7 @@ This is one implementation of the react coding interview exercise you can find i
 * useEffect
 * * run on startup
 * * async
+* * call useState inside useEffect
 * typescript
 * * interface
 * * array
